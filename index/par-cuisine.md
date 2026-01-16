@@ -1,10 +1,10 @@
 # 🌍 Index par Cuisine
 
-*Dernière mise à jour: 2025-11-23*
+*Dernière mise à jour: 2026-01-16*
 
 ## 🍽️ Américaine
 
-**12 recettes**
+**14 recettes**
 
 - [Brookie Coulant au Chocolat](../recettes/autres/Brookie%20coulant%20au%20chocolat.md) - 55min - *végétarien*
 - [Cheesecake à la Mangue Facile](../recettes/autres/Easy%20Mango%20Cheesecake.md) - 535min - *végétarien*
@@ -18,6 +18,8 @@
 - [Pork Belly Burnt Ends - Miso Butterscotch Glaze](../recettes/autres/Pork%20Belly%20Burnt%20Ends%20-%20Miso%20Butterscotch%20Glaze.md) - 230min - *porc*
 - [Recette de ketchup maison de Hugh Acheson](../recettes/autres/Recette%20de%20ketchup%20maison%20de%20Hugh%20Acheson.md) - 110min - *végétarien*
 - [Tuna Melt de Jean-François Piège](../recettes/autres/Tuna%20Melt%20de%20Jean-Fran%C3%A7ois%20Pi%C3%A8ge.md) - 20min - *poisson*
+- [Brookie Bites Bars](../Brookie%20Bites%20Bars.md) - 45min - *végétarien*
+- [Snickers maison](../Snickers%20maison.md) - 265min - *végétarien*
 
 ## 🍽️ Antillaise
 
@@ -42,7 +44,7 @@
 
 ## 🥡 Chinoise
 
-**23 recettes**
+**27 recettes**
 
 - [Air Fryer Char Siu Pork](../recettes/asiatique/chinois/Air%20Fryer%20Char%20Siu%20Pork.md) - 84min - *porc*
 - [Cantonese Roasted Pork Belly (Airfryer)](../recettes/asiatique/chinois/Cantonese%20Roasted%20Pork%20Belly%20%28Airfryer%29.md) - 790min - *porc*
@@ -67,20 +69,27 @@
 - [Wontons Maison à l'Huile Pimentée](../recettes/asiatique/chinois/Wontons%20maison%20%C3%A0%20l%E2%80%99huile%20piment%C3%A9e.md) - 40min - *porc*
 - [Wontons Épicés Sans Pliage à l'Huile de Piment](../recettes/asiatique/chinois/Unwrapped%20Spicy%20Wonton%20in%20Chili%20Oil%20%28No%20Wrapping%20Needed%29.md) - 30min - *porc*
 - [Xiaolongbao XXL - Soupe de Raviolis Farcis](../recettes/asiatique/chinois/Xiaolongbao%20XXL%2C%20une%20soupe%20de%20raviolis%20farcis.md) - 32min - *porc*
+- [Beijing Beef Recipe](../Beijing%20Beef%20Recipe.md) - 30min - *bœuf*
+- [Char Siu Pork Recipe](../Char%20Siu%20Pork%20Recipe.md) - 1440min - *porc*
+- [Chinese Roasted Chicken](../Chinese%20Roasted%20Chicken.md) - 70min - *poulet*
+- [Crispy Cantonese Noodles in the Air Fryer](../Crispy%20Cantonese%20Noodles%20in%20the%20Air%20Fryer.md) - 17min - *végétarien*
 
 ## 🌶️ Coréenne
 
-**5 recettes**
+**8 recettes**
 
 - [Dumplings Coréens Croustillants au Papier de Riz (Mandu)](../recettes/asiatique/coreen/Crispy%20Korean%20Rice%20Paper%20Dumplings%20%28Mandu%29.md) - 30min - *bœuf*
 - [Gochujang Honey Chicken Recipe](../recettes/asiatique/coreen/Gochujang%20Honey%20Chicken%20Recipe.md) - 60min - *poulet*
 - [Kimchi Express, Version Facile](../recettes/asiatique/coreen/Kimchi%20express%2C%20version%20facile.md) - 30min - *vegan*
 - [Kimchi Jjigae - Ragoût Coréen au Kimchi Épicé](../recettes/asiatique/coreen/Kimchi%20Jjigae%20%28Spicy%20Korean%20Kimchi%20Stew%29.md) - 35min - *porc*
 - [Steak Buldak Ramen](../recettes/asiatique/coreen/Steak%20Buldak%20Ramen.md) - 145min - *oeuf*
+- [Frozen Instant Hot Pot Meal Prep Kit](../Frozen%20Instant%20Hot%20Pot%20Meal%20Prep%20Kit.md) - 35min - *bœuf*
+- [Oi Muchim (Spicy Korean Cucumber)](../Oi%20Muchim%20%28Spicy%20Korean%20Cucumber%29.md) - 10min - *vegan*
+- [Spicy Pork Bulgogi Marinade](../Spicy%20Pork%20Bulgogi%20Marinade.md) - 30min - *porc*
 
 ## 🥖 Française
 
-**36 recettes**
+**57 recettes**
 
 - [Blanquette de Saint-Jacques aux Champignons](../recettes/europeen/francais/Blanquette%20de%20Saint-Jacques%20aux%20Champignons.md) - 40min - *fruits-de-mer*
 - [Boeuf Séché au Poivre](../recettes/europeen/francais/Boeuf%20s%C3%A9ch%C3%A9%20au%20poivre.md) - 5040min - *bœuf*
@@ -118,10 +127,31 @@
 - [Velouté de Butternut et Lard Fumé](../recettes/europeen/francais/Velout%C3%A9%20de%20Butternut%20et%20Lard%20Fum%C3%A9.md) - 45min - *porc*
 - [Vous pensez qu'elle va m'épouser ?!](../recettes/europeen/francais/Vous%20pensez%20qu%E2%80%99elle%20va%20m%E2%80%99e%CC%81pouser%20%3F%21.md) - 45min - *poulet*
 - [Œufs Bénédicte Légers et Gourmands](../recettes/europeen/francais/%C5%92ufs%20B%C3%A9n%C3%A9dicte%20L%C3%A9gers%20et%20Gourmands.md) - 30min - *poisson*
+- [Beef Stock (Ultra-Concentrated)](../Beef%20Stock%20%28Ultra-Concentrated%29.md) - 630min - *bœuf*
+- [Beurres Maison Aromatisés](../Beurres%20Maison%20Aromatis%C3%A9s.md) - 35min - *végétarien*
+- [Bœuf Gravlax](../B%C5%93uf%20Gravlax.md) - 1440min - *bœuf*
+- [Caille farcie au foie gras](../Caille%20farcie%20au%20foie%20gras.md) - 55min - *volaille*
+- [Chocolate Lava Cakes (Jean-Georges Inspired)](../Chocolate%20Lava%20Cakes%20%28Jean-Georges%20Inspired%29.md) - 23min - *végétarien*
+- [Crêpes Maison](../Cr%C3%AApes%20Maison.md) - 60min - *végétarien*
+- [Flan des Rois](../Flan%20des%20Rois.md) - 85min - *végétarien*
+- [Foie gras facile pour les gens normaux](../Foie%20gras%20facile%20pour%20les%20gens%20normaux.md) - 30min - *volaille*
+- [Frangipane Équilibrée et Fondante](../Frangipane%20%C3%89quilibr%C3%A9e%20et%20Fondante.md) - 30min - *végétarien*
+- [Hachis Parmentier à l'échine confite](../Hachis%20Parmentier%20%C3%A0%20l%27%C3%A9chine%20confite.md) - 240min - *porc*
+- [Le Chapon Facile de Noël](../Le%20Chapon%20Facile%20de%20Noël.md) - 110min - *volaille*
+- [Les Endives au Jambon Revisitée](../Les%20Endives%20au%20Jambon%20Revisit%C3%A9e.md) - 480min - *porc*
+- [Mes cup avoine, cacahuète & chocolat](../Mes%20cup%20avoine,%20cacahu%C3%A8te%20%26%20chocolat.md) - 130min - *végétarien*
+- [Mon gâteau moelleux à l'orange](../Mon%20gâteau%20moelleux%20%C3%A0%20l%27orange.md) - 45min - *végétarien*
+- [Mousse au chocolat de rêve de Philippe Conticini](../Mousse%20au%20chocolat%20de%20r%C3%AAve%20de%20Philippe%20Conticini.md) - 160min - *végétarien*
+- [Nougat maison](../Nougat%20maison.md) - 95min - *végétarien*
+- [Tarte Tourbillon à la Raclette](../Tarte%20Tourbillon%20%C3%A0%20la%20Raclette.md) - 60min - *porc*
+- [Tarte soleil à la crème d'amande](../Tarte%20soleil%20%C3%A0%20la%20cr%C3%A8me%20d%27amande.md) - 53min - *végétarien*
+- [Tarte Étoile Façon Tartiflette](../Tarte%20%C3%89toile%20Fa%C3%A7on%20Tartiflette.md) - 55min - *porc*
+- [Tourtiflette](../Tourtiflette.md) - 65min - *porc*
+- [Tresse feuilletée à la crème d'amande](../Tresse%20feuillet%C3%A9e%20%C3%A0%20la%20cr%C3%A8me%20d%27amande.md) - 65min - *végétarien*
 
 ## 🍽️ Fusion
 
-**6 recettes**
+**9 recettes**
 
 - [Beef Jerky Teriyaki Maison](../recettes/autres/Beef%20Jerky%20Teriyaki%20Maison.md) - 325min - *bœuf*
 - [Chicken Thighs with Oyster Pan Sauce, Miso Cabbage & Garlic–Ginger Broccoli](../recettes/autres/Chicken%20Thighs%20with%20Oyster%20Pan%20Sauce%2C%20Miso%20Cabbage%20%26%20Garlic%E2%80%93Ginger%20Broccoli.md) - 65min - *poulet*
@@ -129,6 +159,9 @@
 - [Poitrine de Porc Croustillante avec Touches Festives Asiatiques](../recettes/autres/Crispy%20Pork%20Belly%20with%20Festive%20Asian%20Twists.md) - 150min - *porc*
 - [Ramen Crémeux au Poulet Épicé](../recettes/autres/Creamy%20Spicy%20Chicken%20Ramen.md) - 45min - *poulet*
 - [Tortilla Kebab Skewers](../recettes/autres/Tortilla%20Kebab%20Skewers.md) - 50min - *bœuf*
+- [Big Cucumber Low-Cal Bowl](../Big%20Cucumber%20Low-Cal%20Bowl.md) - 10min - *fruits-de-mer*
+- [Fondue au saté - Recette facile](../Fondue%20au%20sat%C3%A9%20-%20Recette%20facile.md) - 60min - *bœuf*
+- [Sauce Peanut by Mory Sacko](../Sauce%20Peanut%20by%20Mory%20Sacko.md) - 5min - *vegan*
 
 ## 🫒 Grecque
 
@@ -138,13 +171,14 @@
 
 ## 🍽️ Internationale
 
-**5 recettes**
+**6 recettes**
 
 - [4 Marinades Dîners Express](../recettes/autres/4%20Marinades%20Di%CC%82ners%20Express.md) - 10min - *variable*
 - [Cocktail Memorization Game Promotion](../recettes/autres/Cocktail%20Memorization%20Game%20Promotion.md) - 0min - *aucune*
 - [Guide des Mélanges d'Épices et Températures de Cuisson](../recettes/autres/Global%20Spice%20Blends%20and%20Meat%20Cook%20Times.md) - 10min - *variable*
 - [Quick & Easy Kinder Cheesecake Pots](../recettes/autres/Quick%20%26%20Easy%20Kinder%20Cheesecake%20Pots.md) - 500min - *végétarien*
 - [Saucy](../recettes/autres/Saucy%20%E2%9C%A8.md) - 0min - *végétarien*
+- [Timeless Classic Cocktails](../Timeless%20Classic%20Cocktails.md) - 5min - *végétarien*
 
 ## 🍽️ Irlandaise
 
@@ -154,7 +188,7 @@
 
 ## 🍝 Italienne
 
-**6 recettes**
+**7 recettes**
 
 - [Bûche Tiramisu Ultra Fondante et Aérienne](../recettes/europeen/italien/Bu%CC%82che%20Tiramisu%20Ultra%20Fondante%20et%20Ae%CC%81rienne.md) - 510min - *végétarien*
 - [Crostone alla Carbonara con i Tuorli Confit](../recettes/europeen/italien/Crostone%20alla%20Carbonara%20con%20i%20Tuorli%20Confit.md) - 105min - *porc*
@@ -162,10 +196,11 @@
 - [Gnocchi Filled with Carbonara and Guanciale](../recettes/europeen/italien/Gnocchi%20Filled%20with%20Carbonara%20and%20Guanciale.md) - 55min - *porc*
 - [Spaghetti alla Nerano](../recettes/europeen/italien/Spaghetti%20alla%20Nerano.md) - 175min - *végétarien*
 - [Vitello Tonnato](../recettes/europeen/italien/Vitello%20tonnato%20cbt.md) - 530min - *bœuf*
+- [Café di Crema](../Caf%C3%A9%20di%20Crema.md) - 5min - *végétarien*
 
 ## 🍜 Japonaise
 
-**16 recettes**
+**20 recettes**
 
 - [10min Gyudon (Japanese beef bowl) Dinner for One](../recettes/asiatique/japonais/10min%20Gyudon%20%28Japanese%20beef%20bowl%29%20Dinner%20for%20One.md) - 10min - *bœuf*
 - [CREAMY PEANUT MISO RAMEN](../recettes/asiatique/japonais/CREAMY%20PEANUT%20MISO%20RAMEN.md) - 35min - *vegan*
@@ -183,6 +218,10 @@
 - [Sauce Teriyaki Maison](../recettes/asiatique/japonais/Sauce%20Teriyaki%20Maison.md) - 25min - *végétarien*
 - [Soupe Udon Crémeuse au Lait de Coco](../recettes/asiatique/japonais/Soupe%20Udon%20cr%C3%A9meuse%20au%20lait%20de%20coco.md) - 40min - *œuf*
 - [Tartine Japonaise](../recettes/asiatique/japonais/Tartine%20Japonaise.md) - 25min - *poulet*
+- [5 Ingredient Mille-Feuille Nabe](../5%20Ingredient%20Mille-Feuille%20Nabe.md) - 35min - *porc*
+- [Jumbo Crispy Japanese Shrimp Katsu Sando](../Jumbo%20Crispy%20Japanese%20Shrimp%20Katsu%20Sando.md) - 30min - *fruits-de-mer*
+- [One Pot Mille-Feuille Nabe](../One%20Pot%20Mille-Feuille%20Nabe.md) - 23min - *porc*
+- [Viral Japan Yogurt Cheesecake Tiramisu](../Viral%20Japan%20Yogurt%20Cheesecake%20Tiramisu.md) - 140min - *végétarien*
 
 ## 🍽️ Levantine
 
