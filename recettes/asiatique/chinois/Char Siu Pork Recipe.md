@@ -1,25 +1,25 @@
 ---
 cuisine: chinoise
 type: plat-principal
-temps_prep: 20
-temps_cuisson: 90
-temps_total: 660
+temps_prep: 30
+temps_cuisson: 50
+temps_total: 1440
 portions: 6
 difficulté: intermédiaire
 protéine: porc
 source: Instagram
-url: https://www.instagram.com/reel/DR-JPWhkdrB/?igsh=azIyZnhiZjZpeW5n
+url: https://www.instagram.com/reel/DSQ2YSdEVPD/?igsh=YXRzMGQyNHV1amVh
 date_ajout: 2025-10-12
 tags:
-  - cuisine/chinoise
-  - type/plat-principal
-  - protéine/porc
-  - temps/long
-  - cuisson/four
-  - difficulté/intermédiaire
-  - occasion/weekend
-  - saveur/sucré-salé
-  - temps/préparation-avance
+  - "#cuisine/chinoise"
+  - "#type/plat-principal"
+  - "#protéine/porc"
+  - "#temps/long"
+  - "#cuisson/four"
+  - "#difficulté/intermédiaire"
+  - "#occasion/weekend"
+  - "#saveur/sucré-salé"
+  - "#temps/préparation-avance"
 ---
 
 # Char Siu Pork Recipe
@@ -28,32 +28,50 @@ tags:
 
 - 🌍 Cuisine : Chinoise
 - 🍽️ Type : Plat principal
-- ⏱️ Temps de préparation : 20 min
-- 🔥 Temps de cuisson : 90 min
-- ⏰ Temps total : 660 min (inclut overnight marinade)
+- ⏱️ Temps de préparation : 30 min
+- 🔥 Temps de cuisson : 50 min
 - 👥 Portions : 6
 - 📊 Difficulté : Intermédiaire
 - 🥩 Protéine principale : Porc
 
 ## Ingredients
 
-* Pork shoulder
-* Char Siu sauce
-* Soy sauce
-* Hoisin sauce
-* Honey
-* Chinese five-spice powder
-* Garlic
-* Ginger
+- 2.5 pounds of boneless pork shoulder or pork butt
+
+**Marinade:**
+- 4 Tbsps Honey
+- 2 Tbsps Light Soy Sauce
+- 1 Tbsp Dark Soy Sauce
+- 1 Tbsp Chinese Cooking Wine
+- 2 pieces red fermented bean curd
+- 1 Tbsp Lee Kum Kee's Premium Oyster Sauce
+- 1 Tbsp Hoisin Sauce
+- ½ tsp five-spice powder
+- 1 Tbsp red food coloring (optional)
+- 1 Tbsp tapioca (or corn) starch
+- Water
+- 3 Tbsps Chinese Cooking Wine (for rubbing the pork)
+- Additional Honey (for final glazing)
 
 ## Steps
 
-1. Marinate the pork shoulder in a mixture of char siu sauce, soy sauce, hoisin sauce, honey, Chinese five-spice powder, minced garlic, and grated ginger.
-2. Cover and refrigerate for several hours or overnight to allow the flavors to penetrate the meat.
-3. Preheat the oven and place the marinated pork on a rack over a baking tray lined with foil.
-4. Roast the pork, basting occasionally with the remaining marinade, until it is deeply caramelized and cooked through.
-5. Let the pork rest briefly before slicing and serving.
+1. Heat up the marinade ingredients and mix until everything is combined.
+2. Once the sauce is heated, mix together 1 tbsp of tapioca (or corn) starch with water.
+3. Turn heat to low and add the starch mixture. Mix until everything is well combined.
+4. Turn off the heat and let the sauce cool for 10–15 minutes.
+5. Stab the pork butt (or shoulder) with a fork, then rub 3 tbsp of Chinese cooking wine over it.
+6. Use a paper towel to dry the excess moisture, then add your cooled, thickened marinade.
+7. Rub all over the pork and let it marinate overnight for best results, mixing periodically to coat evenly.
+
+**Next day:**
+1. Preheat oven to 400°F (200°C).
+2. Put the meat on a baking rack and roast for 20 minutes.
+3. Remove the pork, brush with excess sauce, flip, and brush the other side.
+4. Return to oven for another 20 minutes.
+5. Take it out, brush honey over the pork, flip, and brush the other side with honey.
+6. Put it back into the oven for 10 more minutes.
+7. Enjoy with rice.
 
 ## Source
 
-Link: https://www.instagram.com/reel/DR-JPWhkdrB/?igsh=azIyZnhiZjZpeW5n
+Link: https://www.instagram.com/reel/DSQ2YSdEVPD/?igsh=YXRzMGQyNHV1amVh
