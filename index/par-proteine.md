@@ -1,10 +1,10 @@
 # 🍖 Index par Protéine
 
-*Dernière mise à jour: 2026-04-12*
+*Dernière mise à jour: 2026-05-30*
 
 ## 🍗 Poulet
 
-**48 recettes**
+**55 recettes**
 
 - [ASMR Duck Wellington](recettes/autres/ASMR%20Duck%20Wellington.md) - 85min - *fusion*
 - [Bang Bang Chicken](recettes/asiatique/chinois/Bang%20Bang%20Chicken.md) - 35min - *chinoise*
@@ -13,12 +13,14 @@
 - [Char Siu Chicken – 30 Minutes Meal](recettes/asiatique/chinois/Char%20Siu%20Chicken%20%E2%80%93%2030%20Minutes%20Meal.md) - 30min - *chinoise*
 - [Chicken Congee with Scallion Oil Aroma](recettes/asiatique/chinois/Chicken%20Congee%20with%20Scallion%20Oil%20Aroma.md) - 50min - *chinoise*
 - [Chicken Katsu Meal Prep](recettes/asiatique/japonais/Chicken%20Katsu%20Meal%20Prep.md) - 40min - *japonaise*
+- [Chicken Mee Goreng](recettes/autres/Chicken%20Mee%20Goreng.md) - 30min - *malaisienne*
 - [Chicken Thighs with Oyster Pan Sauce, Miso Cabbage & Garlic–Ginger Broccoli](recettes/autres/Chicken%20Thighs%20with%20Oyster%20Pan%20Sauce%2C%20Miso%20Cabbage%20%26%20Garlic%E2%80%93Ginger%20Broccoli.md) - 65min - *fusion*
 - [Chicken Yaki Udon](recettes/asiatique/japonais/Chicken%20Yaki%20Udon.md) - 25min - *japonaise*
 - [Chinese Roasted Chicken](recettes/asiatique/chinois/Chinese%20Roasted%20Chicken.md) - 70min - *chinoise*
 - [Coconut Lemongrass Chicken](recettes/asiatique/thai/Coconut%20Lemongrass%20Chicken.md) - 30min - *thaï*
 - [Crispy Cantonese Roast Chicken](recettes/asiatique/chinoise/Crispy%20Cantonese%20Roast%20Chicken.md) - 45min - *chinoise*
 - [Easy Meals after Work: Hainanese Chicken](recettes/asiatique/chinois/Easy%20Meals%20after%20Work%3A%20Hainanese%20Chicken.md) - 60min - *chinoise*
+- [Extra Crispy Fried Chicken Biscuit Sandwich](recettes/autres/Extra%20Crispy%20Fried%20Chicken%20Biscuit%20Sandwich.md) - 25min - *américaine*
 - [Family Favorite Roasted Chicken](recettes/autres/Family%20Favorite%20Roasted%20Chicken.md) - 235min - *américaine*
 - [Glazed Roast Duck with Orange Sauce](recettes/autres/Glazed%20Roast%20Duck%20with%20Orange%20Sauce.md) - 1500min - *fusion*
 - [Gochujang Honey Chicken Recipe](recettes/asiatique/coreen/Gochujang%20Honey%20Chicken%20Recipe.md) - 60min - *coréenne*
@@ -26,8 +28,10 @@
 - [High Protein Sichuan Mouthwatering Chicken](recettes/asiatique/chinois/High%20Protein%20Sichuan%20Mouthwatering%20Chicken.md) - 35min - *chinoise*
 - [Hot & Steamy Steamed Chicken with Mushrooms](recettes/asiatique/chinois/Hot%20%26%20Steamy%20Steamed%20Chicken%20with%20Mushrooms.md) - 30min - *chinoise*
 - [How to Yakitori like a Pro](recettes/asiatique/japonais/How%20to%20Yakitori%20like%20a%20Pro.md) - 55min - *japonaise*
+- [Juicy Dry Rub Chicken Breast](recettes/autres/Juicy%20Dry%20Rub%20Chicken%20Breast.md) - 40min - *américaine*
 - [Jus de volaille maison](recettes/europeen/francais/Jus%20de%20volaille%20maison.md) - 490min - *française*
 - [Le poulet rôti de Camille](recettes/europeen/francais/Le%20poulet%20ro%CC%82ti%20de%20Camille.md) - 80min - *française*
+- [Loaded Greek Gyro Fries](recettes/europeen/grec/Loaded%20Greek%20Gyro%20Fries.md) - 35min - *grecque*
 - [One Pan Chicken and Potatoes](recettes/autres/One%20Pan%20Chicken%20and%20Potatoes.md) - 35min - *américaine*
 - [Orange Pepper Chicken](recettes/autres/Orange%20Pepper%20Chicken.md) - 180min - *américaine*
 - [Oyako Donburi à la Japonaise](recettes/asiatique/japonais/Oyako%20Donburi%20a%CC%80%20la%20Japonaise%202.md) - 25min - *japonaise*
@@ -37,12 +41,15 @@
 - [Popcorn de Poulet](recettes/europeen/francais/Popcorn%20de%20Poulet.md) - 34min - *française*
 - [Poulet Rôti Juteux en Saumure](recettes/europeen/francais/Poulet%20r%C3%B4ti%20juteux%20en%20saumure.md) - 1500min - *française*
 - [Ramen Crémeux au Poulet Épicé](recettes/autres/Creamy%20Spicy%20Chicken%20Ramen.md) - 45min - *fusion*
+- [Raviolis au Poulet Fit](recettes/autres/Raviolis%20au%20Poulet%20Fit.md) - 40min - *asiatique*
 - [Recette Best Poulet Frit Japonais de Paris](recettes/asiatique/japonais/Recette%20Best%20Poulet%20Frit%20Japonais%20de%20Paris.md) - 45min - *japonaise*
 - [Rice Pot Meal with Chicken](recettes/asiatique/chinois/Rice%20Pot%20Meal%20with%20Chicken.md) - 40min - *asiatique*
 - [Rotisserie Chicken and Potatoes with Pan Sauce](recettes/europeen/francais/Rotisserie%20Chicken%20and%20Potatoes%20with%20Pan%20Sauce.md) - 110min - *française*
 - [Rouleaux de printemps au poulet](recettes/asiatique/vietnamien/Rouleaux%20de%20printemps%20au%20poulet.md) - 25min - *vietnamienne*
+- [Sauce César allégée & protéinée](sauces/Sauce%20C%C3%A9sar%20all%C3%A9g%C3%A9e%20%26%20prot%C3%A9in%C3%A9e.md) - 25min - *française*
 - [Shawarma Maison Moins Cher qu'au Resto](recettes/autres/Shawarma%20maison%20moins%20cher%20qu%E2%80%99au%20resto.md) - 240min - *levantine*
 - [Soupe de Poulet du Feu de Dieu](recettes/europeen/francais/Soupe%20de%20Poulet%20du%20Feu%20de%20Dieu.md) - 140min - *française*
+- [Soy Sauce Chicken](Soy%20Sauce%20Chicken.md) - 35min - *asiatique*
 - [Soy Sauce Chicken](recettes/asiatique/chinois/Soy%20Sauce%20Chicken.md) - 0min - *chinoise*
 - [Soy Sauce Chicken – Lunar New Year Series Ep. 02](recettes/asiatique/chinois/Soy%20Sauce%20Chicken%20%E2%80%93%20Lunar%20New%20Year%20Series%20Ep.%2002.md) - 60min - *chinoise*
 - [Soy-Braised Chicken](recettes/asiatique/chinois/Soy-Braised%20Chicken.md) - 50min - *chinoise*
@@ -57,7 +64,7 @@
 
 ## 🥓 Porc
 
-**44 recettes**
+**48 recettes**
 
 - [5 Ingredient Mille-Feuille Nabe](recettes/asiatique/japonais/5%20Ingredient%20Mille-Feuille%20Nabe.md) - 35min - *japonaise*
 - [Air Fryer Char Siu Pork](recettes/asiatique/chinois/Air%20Fryer%20Char%20Siu%20Pork.md) - 84min - *chinoise*
@@ -77,6 +84,7 @@
 - [Japanese Pork & Cabbage Gyoza](recettes/asiatique/japonais/Japanese%20Pork%20%26%20Cabbage%20Gyoza.md) - 75min - *japonaise*
 - [Japanese Tan Tan Ramen in 20 Minutes](recettes/asiatique/japonais/Japanese%20Tan%20Tan%20Ramen%20in%2020%20minutes.md) - 20min - *japonaise*
 - [Kimchi Jjigae - Ragoût Coréen au Kimchi Épicé](recettes/asiatique/coreen/Kimchi%20Jjigae%20%28Spicy%20Korean%20Kimchi%20Stew%29.md) - 35min - *coréenne*
+- [Lasagnes Ravioli Terre et Mer](recettes/autres/Lasagnes%20Ravioli%20Terre%20et%20Mer.md) - 50min - *asiatique*
 - [Le vrai Pâté Lorrain](recettes/europeen/francais/Le%20vrai%20P%C3%A2t%C3%A9%20Lorrain.md) - 135min - *française*
 - [Lechon Kawali (Crispy Pork Belly)](recettes/autres/Lechon%20Kawali%20%28Crispy%20Pork%20Belly%29.md) - 1525min - *philippine*
 - [Lechon Kawali (Crispy Pork Belly)](recettes/autres/Lechon%20Kawali%20%28Crispy%20Pork%20Belly%29%201.md) - 2910min - *philippine*
@@ -91,6 +99,8 @@
 - [Ramen Gyozas (Comme au Japon)](recettes/asiatique/japonais/Ramen%20Gyozas%20%28Comme%20au%20Japon%29.md) - 45min - *japonaise*
 - [Raviolis Wonton en 4 Façons](recettes/asiatique/chinoise/Raviolis%20Wonton%20en%204%20fa%C3%A7ons.md) - 40min - *chinoise*
 - [Raviolis au Porc et Ciboulette Chinoise](recettes/asiatique/chinoise/Raviolis%20au%20porc%20et%20ciboulette%20chinoise.md) - 35min - *chinoise*
+- [Siu Mai (Shumai) Dim Sum](recettes/asiatique/chinois/Siu%20Mai%20%28Shumai%29%20Dim%20Sum.md) - 30min - *chinoise*
+- [Siu Mai (Shumai) – Homemade Dim Sum](recettes/asiatique/chinois/Siu%20Mai%20%28Shumai%29%20%E2%80%93%20Homemade%20Dim%20Sum.md) - 40min - *chinoise*
 - [Spicy Pork Bulgogi Marinade](recettes/asiatique/coreen/Spicy%20Pork%20Bulgogi%20Marinade.md) - 30min - *coréenne*
 - [Spiedino di Mortadella](recettes/autres/Spiedino%20di%20Mortadella.md) - 15min - *italienne*
 - [Sticky 2-Ingredient AirFryer Char Siew](recettes/asiatique/chinois/Sticky%202-Ingredient%20AirFryer%20Char%20Siew.md) - 35min - *chinoise*
@@ -100,13 +110,14 @@
 - [Thai Basil Pork Stir-Fry](recettes/asiatique/thai/Thai%20Basil%20Pork%20Stir-Fry.md) - 25min - *thaï*
 - [Tourtiflette](recettes/europeen/francais/Tourtiflette.md) - 65min - *française*
 - [Velouté de Butternut et Lard Fumé](recettes/europeen/francais/Velout%C3%A9%20de%20Butternut%20et%20Lard%20Fum%C3%A9.md) - 45min - *française*
+- [Wonton Soup like Grandma Used to Make](Wonton%20Soup%20like%20Grandma%20Used%20to%20Make.md) - 35min - *chinoise*
 - [Wontons Maison à l'Huile Pimentée](recettes/asiatique/chinois/Wontons%20maison%20%C3%A0%20l%E2%80%99huile%20piment%C3%A9e.md) - 40min - *chinoise*
 - [Wontons Épicés Sans Pliage à l'Huile de Piment](recettes/asiatique/chinois/Unwrapped%20Spicy%20Wonton%20in%20Chili%20Oil%20%28No%20Wrapping%20Needed%29.md) - 30min - *chinoise*
 - [Xiaolongbao XXL - Soupe de Raviolis Farcis](recettes/asiatique/chinois/Xiaolongbao%20XXL%2C%20une%20soupe%20de%20raviolis%20farcis.md) - 32min - *chinoise*
 
 ## 🥩 Bœuf
 
-**26 recettes**
+**27 recettes**
 
 - [10min Gyudon (Japanese beef bowl) Dinner for One](recettes/asiatique/japonais/10min%20Gyudon%20%28Japanese%20beef%20bowl%29%20Dinner%20for%20One.md) - 10min - *japonaise*
 - [Beef Jerky Teriyaki Maison](recettes/autres/Beef%20Jerky%20Teriyaki%20Maison.md) - 325min - *fusion*
@@ -119,6 +130,7 @@
 - [Bœuf Gravlax](recettes/europeen/francais/B%C5%93uf%20Gravlax.md) - 1440min - *française*
 - [Bœuf Sauté Rapide](recettes/autres/B%C5%93uf%20Saute%CC%81%20Rapide.md) - 18min - *asiatique*
 - [Dumplings Coréens Croustillants au Papier de Riz (Mandu)](recettes/asiatique/coreen/Crispy%20Korean%20Rice%20Paper%20Dumplings%20%28Mandu%29.md) - 30min - *coréenne*
+- [Filet mignon farci façon petit rôti](Filet%20mignon%20farci%20fa%C3%A7on%20petit%20r%C3%B4ti.md) - 40min - *française*
 - [Fond de veau maison](recettes/europeen/francais/Fond%20de%20veau%20maison.md) - 735min - *française*
 - [Fondue au saté - Recette facile](recettes/autres/Fondue%20au%20sat%C3%A9%20-%20Recette%20facile.md) - 60min - *fusion*
 - [Frozen Instant Hot Pot Meal Prep Kit](recettes/asiatique/coreen/Frozen%20Instant%20Hot%20Pot%20Meal%20Prep%20Kit.md) - 35min - *coréenne*
@@ -137,20 +149,23 @@
 
 ## 🐟 Poisson
 
-**5 recettes**
+**7 recettes**
 
 - [Bûche de truite fumée et blinis pour Noël](recettes/europeen/francais/B%C3%BBche%20de%20truite%20fum%C3%A9e%20et%20blinis%20pour%20No%C3%ABl.md) - 20min - *française*
+- [Cheesecake salé Fromage Frais & Truite Fumée](recettes/europeen/francais/Cheesecake%20sal%C3%A9%20fromage%20frais%20%26%20truite%20fum%C3%A9e.md) - 45min - *française*
 - [Filets de Cabillaud en Sauce Crémeuse à la Moutarde](recettes/europeen/francais/Filets%20de%20Cabillaud%20en%20Sauce%20Cre%CC%81meuse%20a%CC%80%20la%20Moutarde%202.md) - 30min - *française*
 - [Gravlax betterave & mousse de beurre](recettes/europeen/francais/Gravlax%20betterave%20%26%20mousse%20de%20beurre.md) - 600min - *française*
+- [Salmon and Avocado Marinated Rice Bowl](Salmon%20and%20Avocado%20Marinated%20Rice%20Bowl.md) - 40min - *japonaise*
 - [Tuna Melt de Jean-François Piège](recettes/autres/Tuna%20Melt%20de%20Jean-Fran%C3%A7ois%20Pi%C3%A8ge.md) - 20min - *américaine*
 - [Œufs Bénédicte Légers et Gourmands](recettes/europeen/francais/%C5%92ufs%20B%C3%A9n%C3%A9dicte%20L%C3%A9gers%20et%20Gourmands.md) - 30min - *française*
 
 ## 🦐 Fruits-de-mer
 
-**18 recettes**
+**22 recettes**
 
 - [Big Cucumber Low-Cal Bowl](recettes/autres/Big%20Cucumber%20Low-Cal%20Bowl.md) - 10min - *fusion*
 - [Blanquette de Saint-Jacques aux Champignons](recettes/europeen/francais/Blanquette%20de%20Saint-Jacques%20aux%20Champignons.md) - 40min - *française*
+- [Chili Lime Marinated Shrimp](recettes/autres/Chili%20Lime%20Marinated%20Shrimp.md) - 35min - *fusion*
 - [Chou farci au homard et aux morilles](recettes/europeen/francais/Chou%20farci%20au%20homard%20et%20aux%20morilles.md) - 50min - *française*
 - [Comment cuire parfaitement un homard](recettes/europeen/francais/Comment%20cuire%20parfaitement%20un%20homard.md) - 25min - *française*
 - [Foie Gras Maison pour les Fêtes](recettes/europeen/francais/Foie%20gras%20maison%20pour%20les%20f%C3%AAtes.md) - 2205min - *française*
@@ -159,6 +174,7 @@
 - [Fried Shrimp Balls](recettes/asiatique/chinois/Fried%20Shrimp%20Balls.md) - 25min - *chinoise*
 - [Fried Shrimp Balls](recettes/asiatique/chinois/Garlic%20Steak%20Fried%20Rice.md) - 25min - *chinoise*
 - [Gyoza Festifs aux Crevettes](recettes/asiatique/japonais/Gyoza%20Festifs%20aux%20Crevettes.md) - 40min - *japonaise*
+- [Healthy and Delicious Steamed Asian Cabbage Rolls](recettes/autres/Healthy%20and%20Delicious%20Steamed%20Asian%20Cabbage%20Rolls.md) - 35min - *asiatique*
 - [Hot & Steamy Pork & Shrimp Siu Mai](recettes/asiatique/chinois/Hot%20%26%20Steamy%20Pork%20%26%20Shrimp%20Siu%20Mai.md) - 35min - *chinoise*
 - [Jumbo Crispy Japanese Shrimp Katsu Sando](recettes/asiatique/japonais/Jumbo%20Crispy%20Japanese%20Shrimp%20Katsu%20Sando.md) - 30min - *japonaise*
 - [Pad Thaï](recettes/asiatique/thai/Pad%20Tha%C3%AF%20%F0%9F%98%8D%F0%9F%8D%9C.md) - 35min - *thaï*
@@ -166,11 +182,13 @@
 - [Rice Paper Dim Sum-Style Shrimp Roll Hack](recettes/asiatique/chinois/Rice%20Paper%20Dim%20Sum-Style%20Shrimp%20Roll%20Hack.md) - 30min - *chinoise*
 - [Shrimp Cabbage Dumpling Rolls](recettes/asiatique/chinois/Shrimp%20Cabbage%20Dumpling%20Rolls.md) - 30min - *chinoise*
 - [Siu Mai Authentiques aux Crevettes](recettes/asiatique/chinois/How%20to%20Make%20Authentic%20Shrimp%20Siu%20Mai%20at%20Home.md) - 30min - *chinoise*
+- [Soy Garlic Shrimp](recettes/autres/Soy%20Garlic%20Shrimp.md) - 25min - *asiatique*
 - [Steamed Pork & Shrimp Cabbage Rolls](recettes/asiatique/chinois/Steamed%20Pork%20%26%20Shrimp%20Cabbage%20Rolls.md) - 37min - *chinoise*
+- [Thai Glass Noodle Salad (Pad Woon Sen)](recettes/asiatique/thai/10%20Minute%20Thai%20Glass%20Noodle%20Salad%20%28Pad%20Woon%20Sen%29.md) - 10min - *thaï*
 
 ## 🥬 Végétarien
 
-**93 recettes**
+**97 recettes**
 
 - [3 Healthy No-Bake Snacks](recettes/autres/3%20Healthy%20No-Bake%20Snacks%20%20.md) - 50min - *américaine*
 - [Almond Croissant Blondies](recettes/europeen/francais/Almond%20Croissant%20Blondies.md) - 60min - *française*
@@ -197,6 +215,7 @@
 - [Confit Egg Yolks – pure golden luxury](recettes/autres/Confit%20Egg%20Yolks%20%E2%80%93%20pure%20golden%20luxury.md) - 35min - *fusion*
 - [Cookie Dough Bark](recettes/autres/Cookie%20Dough%20Bark.md) - 90min - *américaine*
 - [Cookie Millionnaire](recettes/europeen/francais/Cookie%20Millionnaire.md) - 180min - *française*
+- [Cookies Beurre de Cacahuète & Chocolat (Ultra Chewy) Sans Gluten](recettes/europeen/francais/Cookies%20beurre%20de%20cacahu%C3%A8te%20%26%20chocolat%20%28ultra%20chewy%29%20sans%20gluten.md) - 57min - *française*
 - [Cookies maison moelleux et croustillants](recettes/autres/Cookies%20maison%20moelleux%20et%20croustillants.md) - 85min - *américaine*
 - [Cookies sans sucre ajouté](recettes/europeen/francais/Cookies%20sans%20sucre%20ajoute%CC%81.md) - 35min - *française*
 - [Coupes de Cheesecake Biscoff Sans Cuisson](recettes/autres/No%20Bake%20Biscoff%20Cheesecake%20Cups.md) - 140min - *américaine*
@@ -210,6 +229,7 @@
 - [Fondant au chocolat de Jacques Chirac](recettes/europeen/francais/Fondant%20au%20chocolat%20de%20Jacques%20Chirac.md) - 1463min - *française*
 - [Frangipane Équilibrée et Fondante](recettes/europeen/francais/Frangipane%20%C3%89quilibr%C3%A9e%20et%20Fondante.md) - 30min - *française*
 - [Fried Rice Recipe](recettes/asiatique/chinois/Fried%20Rice%20Recipe.md) - 15min - *chinoise*
+- [Gaspacho Concombre & Feta](recettes/europeen/grec/Gaspacho%20concombre%20%26%20feta.md) - 10min - *grecque*
 - [Gaufre au Potiron](recettes/europeen/francais/Gaufre%20au%20potiron.md) - 30min - *française*
 - [Gâteau Cerveau Halloween](recettes/europeen/francais/G%C3%A2teau%20Cerveau%20Halloween%20%F0%9F%8E%83%20%F0%9F%A7%A0%F0%9F%94%AA%F0%9F%AA%B8.md) - 90min - *française*
 - [Healthy Reese's Protein Dessert](recettes/autres/Healthy%20Reese%27s%20Protein%20Dessert.md) - 70min - *américaine*
@@ -223,6 +243,7 @@
 - [Le Cookie Brownie](recettes/autres/Le%20Cookie%20Brownie.md) - 24min - *américaine*
 - [Le Cookie Qui Te Veut du Bien (au Beurre de Cacahuète)](recettes/autres/Le%20cookie%20qui%20te%20veut%20du%20bien%20%28au%20beurre%20de%20cacahue%CC%80te%29.md) - 150min - *américaine*
 - [Le Flan Vanille Parfait](recettes/europeen/francais/Le%20Flan%20Vanille%20Parfait.md) - 225min - *française*
+- [Lemon Cookies Recipe](recettes/europeen/italien/Lemon%20Cookies%20Recipe.md) - 48min - *italienne*
 - [Lemon Pudding d’Elvira](recettes/autres/Lemon%20Pudding%20d%E2%80%99Elvira.md) - 45min - *fusion*
 - [Les Cannelés Bordelais](recettes/europeen/francais/Les%20cannel%C3%A9s%20bordelais.md) - 1520min - *française*
 - [Les gyozas ramen de One Piece](recettes/asiatique/japonais/Les%20gyozas%20ramen%20de%20One%20Piece.md) - 50min - *japonaise*
@@ -231,6 +252,7 @@
 - [Mango Mochi](recettes/asiatique/japonais/Mango%20Mochi.md) - 55min - *japonaise*
 - [Mayak Eggs (Korean Marinated Eggs)](recettes/asiatique/coreen/Mayak%20Eggs%20%28Korean%20Marinated%20Eggs%29.md) - 140min - *coréenne*
 - [Mes cup avoine, cacahuète & chocolat](recettes/europeen/francais/Mes%20cup%20avoine%2C%20cacahu%C3%A8te%20%26%20chocolat.md) - 130min - *française*
+- [Michelin-style Spaghetti Aglio e Olio](recettes/europeen/italien/Michelin-style%20Spaghetti%20Aglio%20e%20Olio.md) - 25min - *italienne*
 - [Millionaire Shortbread Santé](recettes/autres/Millionaire%20Shortbread%20Sante%CC%81.md) - 75min - *fusion*
 - [Millionaire’s Shortbread – Le cadeau parfait pour Noël](recettes/autres/Millionaire%E2%80%99s%20Shortbread%20%E2%80%93%20Le%20cadeau%20parfait%20pour%20No%C3%ABl.md) - 50min - *fusion*
 - [Moelleux Cake au Chocolat et Noisettes](recettes/europeen/francais/Moelleux%20Cake%20au%20Chocolat%20et%20Noisettes.md) - 70min - *française*
@@ -244,9 +266,9 @@
 - [Recette de ketchup maison de Hugh Acheson](recettes/autres/Recette%20de%20ketchup%20maison%20de%20Hugh%20Acheson.md) - 110min - *américaine*
 - [Rock 'N Choc](recettes/europeen/francais/Rock%20%E2%80%99N%20Choc.md) - 38min - *française*
 - [SHAWARMisu](recettes/autres/SHAWARMisu.md) - 240min - *fusion*
+- [Salade aux Pois Chiches Croustillants](Salade%20aux%20pois%20chiches%20croustillants.md) - 40min - *méditerranéenne*
 - [Sauce Cacahuète Parfaite](sauces/Sauce%20Cacahu%C3%A8te%20Parfaite.md) - 5min - *vietnamienne*
 - [Sauce Namban 🥚](recettes/asiatique/japonais/Sauce%20Namban%20%F0%9F%A5%9A.md) - 15min - *japonaise*
-- [Sauce Satay](sauces/Sauce%20Satay.md) - 10min - *asiatique*
 - [Sauce Teriyaki Maison](recettes/asiatique/japonais/Sauce%20Teriyaki%20Maison.md) - 25min - *japonaise*
 - [Saucy](recettes/autres/Saucy%20%E2%9C%A8.md) - 0min - *internationale*
 - [Sigeumchi Namul (Banchan Series – ep.9)](recettes/asiatique/coreen/Sigeumchi%20Namul%20%28Banchan%20Series%29.md) - 15min - *coréenne*
@@ -268,10 +290,11 @@
 
 ## 🌱 Vegan
 
-**10 recettes**
+**11 recettes**
 
 - [Bourbon Cocktails for Christmas Party](recettes/autres/Bourbon%20Cocktails%20for%20Christmas%20Party.md) - 5min - *fusion*
 - [CREAMY PEANUT MISO RAMEN](recettes/asiatique/japonais/CREAMY%20PEANUT%20MISO%20RAMEN.md) - 35min - *japonaise*
+- [Crème d'ail libanaise (Toum)](recettes/autres/Cr%C3%A8me%20d%27ail%20libanaise%20%28Toum%29.md) - 10min - *libanaise*
 - [Freezer Door Old Fashioned](recettes/autres/Freezer%20Door%20Old%20Fashioned.md) - 5min - *américaine*
 - [Homemade Sprite](recettes/autres/Homemade%20Sprite.md) - 10min - *fusion*
 - [Kimchi Express, Version Facile](recettes/asiatique/coreen/Kimchi%20express%2C%20version%20facile.md) - 30min - *coréenne*
@@ -280,6 +303,12 @@
 - [Sauce Peanut by Mory Sacko](recettes/autres/Sauce%20Peanut%20by%20Mory%20Sacko.md) - 5min - *fusion*
 - [The End of the Line Negroni](recettes/autres/The%20End%20of%20the%20Line%20Negroni.md) - 5min - *fusion*
 - [Umami Powder](recettes/autres/Umami%20Powder.md) - 10min - *fusion*
+
+## 🍽️ Fromage
+
+**1 recettes**
+
+- [Crème de Feta à la Pistache](recettes/europeen/grec/Cr%C3%A8me%20de%20feta%20%C3%A0%20la%20pistache.md) - 10min - *grecque*
 
 ## 🍽️ Agneau
 
@@ -290,12 +319,14 @@
 
 ## 🍽️ N/a
 
-**4 recettes**
+**6 recettes**
 
 - [Chili Oil Thaï](recettes/autres/Chili%20Oil%20Tha%C3%AF.md) - 10min - *thaï*
 - [Protein Twix Bars](recettes/dessert/Protein%20Twix%20Bars.md) - 55min - *américaine*
+- [Sauce Chimichurri](sauces/Sauce%20Chimichurri.md) - 15min - *latino-américaine*
 - [Tarte Façon Frangipane](recettes/dessert/Tarte%20fa%C3%A7on%20frangipane.md) - 55min - *française*
 - [Tarte au Citron Meringuée](recettes/europeen/francais/Tarte%20au%20citron%20meringue%CC%81e.md) - 155min - *française*
+- [Tiramisu Express en Pot](recettes/europeen/italien/Tiramisu%20Express%20en%20Pot.md) - 15min - *italienne*
 
 ## 🍽️ Volaille
 
@@ -331,10 +362,11 @@
 
 ## 🍽️ N/a
 
-**2 recettes**
+**3 recettes**
 
 - [Les Quantités de la Recette - Equipment & Resources Guide](recettes/autres/Les%20quantit%C3%A9s%20de%20la%20recette.md) - 0min - *multi-cuisine*
 - [Recette Magique de Guimauves](recettes/europeen/francais/Recette%20Magique%20de%20Guimauves.md) - 15min - *française*
+- [Sauce à l'Oseille Rapide](recettes/europeen/francais/Sauce%20%C3%A0%20l%27oseille%20rapide%20pour%204%20personnes.md) - 8min - *française*
 
 ## 🍽️ Aucune
 
@@ -371,6 +403,12 @@
 
 - [Steak Buldak Ramen](recettes/asiatique/coreen/Steak%20Buldak%20Ramen.md) - 145min - *coréenne*
 
+## 🍽️ Œufs
+
+**1 recettes**
+
+- [Soy Sauce Fried Rice](recettes/autres/Soy%20Sauce%20Fried%20Rice.md) - 20min - *asiatique*
+
 ## 🍽️ Viande-hachée
 
 **1 recettes**
@@ -382,6 +420,12 @@
 **1 recettes**
 
 - [Mon Kebab Maison](recettes/autres/Mon%20Kebab%20Maison.md) - 70min - *turque*
+
+## 🍽️ Boeuf-crevettes
+
+**1 recettes**
+
+- [Napa Soup Dumpling Lasagna](recettes/autres/Napa%20Soup%20Dumpling%20Lasagna.md) - 27min - *asiatique*
 
 ## 🍽️ Autre
 
